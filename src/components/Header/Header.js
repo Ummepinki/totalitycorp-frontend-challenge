@@ -17,7 +17,8 @@ const Header = () => {
             </div>
             <div className='header__right'>
                <p>Shop</p>
-               <p>Tesla Account</p>
+               <p>Account</p>
+               <p>Menu</p>
             </div>
         </div>
     );
