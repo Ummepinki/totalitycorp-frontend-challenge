@@ -9,7 +9,15 @@
 .left-btn{
     color:#f9f9f9;
     background-color: #171A20CC;
+    
 }
+.left-btn:hover{
+    background-color: lightgray;
+}
+.right-btn:hover{
+    background-color: wheat;
+}
+
 
 .right-btn{
     color: #171A20CC;
@@ -40,4 +48,5 @@
         background-color: hsla(0, 0%, 50.2%, .125) !important;
       
     }
+    
 }

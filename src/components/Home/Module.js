@@ -148,6 +148,7 @@ const ButtonGroup = styled.div`
     margin: 0 10px;
     font-size: 14px;
     font-weight: 400;
+
     border-radius: 100px;
     transition: all 0.7s ease-in-out;
 
